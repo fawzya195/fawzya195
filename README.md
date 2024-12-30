@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/fawzya-said195"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Shariful Islam</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sfawzya40@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Shariful Islam</a>
+<a href="https://www.linkedin.com/in/fawzya-said195"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Fawzya Said</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sfawzya40@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Fawzya Said</a>
 
 <hr>
 
